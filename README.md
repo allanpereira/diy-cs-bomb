@@ -12,3 +12,7 @@ This project implements the controller software of an IRL replica of [Counter St
 - LCD Display
 - Keypad
 - Buzzer
+
+
+# Circuit
+https://www.circuito.io/app?components=8653,10218,11021,341099,956215
